@@ -4,7 +4,7 @@ public class TestNinja {
         System.out.printf("hello my name is %s, \n", "john");
 
         // instantiating objects
-        Ninja kikomo = new Ninja("Kenshiro");
+        Ninja kikomo = new Ninja("Kenshiro1");
         Sword nagakiba = new Sword("Nagakiba"); 
 
         // System.out.println(nagakiba.getType() ); //?
